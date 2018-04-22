@@ -1,0 +1,11 @@
+
+ Elementy tablicy: 
+ ('i', [[4, -4, 1, -2, 2]])
+Elementy tablicy: 
+ ('i', [[0, 3, 1, -4, -3]])
+Elementy tablicy: 
+ ('i', [[-2, 2, -5, 3, -1]])
+Elementy tablicy: 
+ ('i', [[2, -2, 1, 0, -1]])
+Elementy tablicy: 
+ ('i', [[0, 3, 2, -5, -1]])
